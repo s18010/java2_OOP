@@ -1,3 +1,0 @@
-interface Aggregate {
-    Iterator iterator();
-}
