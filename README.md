@@ -1,2 +1,2 @@
-# java2_selectionclass
-選択授業　(OOP フレームワーク デザインパターン)
+# java2_OOP
+選択授業　(デザインパターン)
